@@ -1,2 +1,2 @@
 # control_scripts
-Octave scripts for Control Systems 
+Scripts para Sistemas de Control 
